@@ -1,4 +1,4 @@
-# SporAbout Dataset
+# About Dataset
 This dataset contains information about the prices of different sports cars from various manufacturers. The dataset includes the make and model of the car, the year of production, the engine size, the horsepower, the torque, the 0-60 MPH time, and the price in USD. The dataset is useful for analyzing the prices of different sports cars and identifying trends in the market.
 
 Columns
