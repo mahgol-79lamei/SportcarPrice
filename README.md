@@ -1,17 +1,11 @@
 
-# About Dataset
-
-
-
-
-
-
-
+# Linear Regression 
+Welcome to my first programming in machine learning , I built a linear regression model to predict cars price
 
 # About Dataset
 This dataset contains information about the prices of different sports cars from various manufacturers. The dataset includes the make and model of the car, the year of production, the engine size, the horsepower, the torque, the 0-60 MPH time, and the price in USD. The dataset is useful for analyzing the prices of different sports cars and identifying trends in the market.
 
-columns
+COLUMNS :
 1. Car Make: The make of the sports car, which represents the brand or company that produced the car. Examples of car makes in this dataset include Porsche, Lamborghini, Ferrari, Audi, and McLaren.
 2. Car Model: The model of the sports car, which represents the specific version or variant of the car produced by the manufacturer. Examples of car models in this dataset include 911, Huracan, 488 GTB, R8, 720S, M8, AMG GT, Corvette, Mustang Shelby GT500, and GT-R Nismo.
 3. Year: The year of production of the sports car, which indicates the model year when the car was first introduced or made available for purchase.
